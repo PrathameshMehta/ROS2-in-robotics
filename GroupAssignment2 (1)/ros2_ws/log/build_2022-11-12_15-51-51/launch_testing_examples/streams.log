@@ -1,0 +1,33 @@
+[3.449s] Invoking command in '/home/ankush/ros2_ws/build/launch_testing_examples': PYTHONPATH=/home/ankush/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ankush/ros2_ws/install/launch_testing_examples --editable --build-directory /home/ankush/ros2_ws/build/launch_testing_examples/build --no-deps install_data --install-dir /home/ankush/ros2_ws/install/launch_testing_examples
+[4.012s] running develop
+[4.013s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[4.013s]   warnings.warn(
+[4.016s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[4.016s]   warnings.warn(
+[4.158s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[4.159s]   warnings.warn(
+[4.159s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[4.159s]   warnings.warn(
+[4.160s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[4.160s]   warnings.warn(
+[4.649s] running egg_info
+[4.649s] creating launch_testing_examples.egg-info
+[4.652s] writing launch_testing_examples.egg-info/PKG-INFO
+[4.653s] writing dependency_links to launch_testing_examples.egg-info/dependency_links.txt
+[4.653s] writing entry points to launch_testing_examples.egg-info/entry_points.txt
+[4.653s] writing requirements to launch_testing_examples.egg-info/requires.txt
+[4.653s] writing top-level names to launch_testing_examples.egg-info/top_level.txt
+[4.654s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[4.658s] reading manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[4.659s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[4.661s] running build_ext
+[4.661s] Creating /home/ankush/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch-testing-examples.egg-link (link to .)
+[4.663s] 
+[4.663s] Installed /home/ankush/ros2_ws/build/launch_testing_examples
+[4.663s] running install_data
+[4.663s] creating /home/ankush/ros2_ws/install/launch_testing_examples/share/ament_index
+[4.664s] creating /home/ankush/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index
+[4.665s] creating /home/ankush/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[4.665s] copying resource/launch_testing_examples -> /home/ankush/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[4.666s] copying package.xml -> /home/ankush/ros2_ws/install/launch_testing_examples/share/launch_testing_examples
+[4.742s] Invoked command in '/home/ankush/ros2_ws/build/launch_testing_examples' returned '0': PYTHONPATH=/home/ankush/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ankush/ros2_ws/install/launch_testing_examples --editable --build-directory /home/ankush/ros2_ws/build/launch_testing_examples/build --no-deps install_data --install-dir /home/ankush/ros2_ws/install/launch_testing_examples

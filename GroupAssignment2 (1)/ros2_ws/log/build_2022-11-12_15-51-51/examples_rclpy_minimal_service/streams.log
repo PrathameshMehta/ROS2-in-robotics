@@ -1,0 +1,35 @@
+[6.884s] Invoking command in '/home/ankush/ros2_ws/build/examples_rclpy_minimal_service': PYTHONPATH=/home/ankush/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ankush/ros2_ws/install/examples_rclpy_minimal_service --editable --build-directory /home/ankush/ros2_ws/build/examples_rclpy_minimal_service/build --no-deps install_data --install-dir /home/ankush/ros2_ws/install/examples_rclpy_minimal_service
+[7.429s] running develop
+[7.433s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[7.433s]   warnings.warn(
+[7.436s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[7.437s]   warnings.warn(
+[7.605s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[7.605s]   warnings.warn(
+[7.606s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[7.606s]   warnings.warn(
+[7.607s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[7.607s]   warnings.warn(
+[7.851s] running egg_info
+[7.851s] creating examples_rclpy_minimal_service.egg-info
+[7.851s] writing examples_rclpy_minimal_service.egg-info/PKG-INFO
+[7.851s] writing dependency_links to examples_rclpy_minimal_service.egg-info/dependency_links.txt
+[7.852s] writing entry points to examples_rclpy_minimal_service.egg-info/entry_points.txt
+[7.852s] writing requirements to examples_rclpy_minimal_service.egg-info/requires.txt
+[7.852s] writing top-level names to examples_rclpy_minimal_service.egg-info/top_level.txt
+[7.853s] writing manifest file 'examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[7.856s] reading manifest file 'examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[7.857s] writing manifest file 'examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[7.860s] running build_ext
+[7.860s] Creating /home/ankush/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages/examples-rclpy-minimal-service.egg-link (link to .)
+[7.862s] Installing service script to /home/ankush/ros2_ws/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[7.862s] Installing service_member_function script to /home/ankush/ros2_ws/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[7.863s] 
+[7.863s] Installed /home/ankush/ros2_ws/build/examples_rclpy_minimal_service
+[7.863s] running install_data
+[7.863s] creating /home/ankush/ros2_ws/install/examples_rclpy_minimal_service/share/ament_index
+[7.863s] creating /home/ankush/ros2_ws/install/examples_rclpy_minimal_service/share/ament_index/resource_index
+[7.863s] creating /home/ankush/ros2_ws/install/examples_rclpy_minimal_service/share/ament_index/resource_index/packages
+[7.863s] copying resource/examples_rclpy_minimal_service -> /home/ankush/ros2_ws/install/examples_rclpy_minimal_service/share/ament_index/resource_index/packages
+[7.863s] copying package.xml -> /home/ankush/ros2_ws/install/examples_rclpy_minimal_service/share/examples_rclpy_minimal_service
+[7.926s] Invoked command in '/home/ankush/ros2_ws/build/examples_rclpy_minimal_service' returned '0': PYTHONPATH=/home/ankush/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ankush/ros2_ws/install/examples_rclpy_minimal_service --editable --build-directory /home/ankush/ros2_ws/build/examples_rclpy_minimal_service/build --no-deps install_data --install-dir /home/ankush/ros2_ws/install/examples_rclpy_minimal_service

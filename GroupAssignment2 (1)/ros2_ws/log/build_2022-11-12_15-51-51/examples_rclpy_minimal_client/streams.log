@@ -1,0 +1,37 @@
+[6.699s] Invoking command in '/home/ankush/ros2_ws/build/examples_rclpy_minimal_client': PYTHONPATH=/home/ankush/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ankush/ros2_ws/install/examples_rclpy_minimal_client --editable --build-directory /home/ankush/ros2_ws/build/examples_rclpy_minimal_client/build --no-deps install_data --install-dir /home/ankush/ros2_ws/install/examples_rclpy_minimal_client
+[7.694s] running develop
+[7.695s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[7.695s]   warnings.warn(
+[7.706s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[7.714s]   warnings.warn(
+[7.930s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[7.930s]   warnings.warn(
+[7.935s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[7.935s]   warnings.warn(
+[7.938s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[7.938s]   warnings.warn(
+[8.205s] running egg_info
+[8.206s] creating examples_rclpy_minimal_client.egg-info
+[8.207s] writing examples_rclpy_minimal_client.egg-info/PKG-INFO
+[8.207s] writing dependency_links to examples_rclpy_minimal_client.egg-info/dependency_links.txt
+[8.208s] writing entry points to examples_rclpy_minimal_client.egg-info/entry_points.txt
+[8.208s] writing requirements to examples_rclpy_minimal_client.egg-info/requires.txt
+[8.209s] writing top-level names to examples_rclpy_minimal_client.egg-info/top_level.txt
+[8.209s] writing manifest file 'examples_rclpy_minimal_client.egg-info/SOURCES.txt'
+[8.219s] reading manifest file 'examples_rclpy_minimal_client.egg-info/SOURCES.txt'
+[8.220s] writing manifest file 'examples_rclpy_minimal_client.egg-info/SOURCES.txt'
+[8.223s] running build_ext
+[8.223s] Creating /home/ankush/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples-rclpy-minimal-client.egg-link (link to .)
+[8.225s] Installing client script to /home/ankush/ros2_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[8.225s] Installing client_async script to /home/ankush/ros2_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[8.226s] Installing client_async_callback script to /home/ankush/ros2_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[8.240s] Installing client_async_member_function script to /home/ankush/ros2_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[8.241s] 
+[8.241s] Installed /home/ankush/ros2_ws/build/examples_rclpy_minimal_client
+[8.241s] running install_data
+[8.241s] creating /home/ankush/ros2_ws/install/examples_rclpy_minimal_client/share/ament_index
+[8.241s] creating /home/ankush/ros2_ws/install/examples_rclpy_minimal_client/share/ament_index/resource_index
+[8.242s] creating /home/ankush/ros2_ws/install/examples_rclpy_minimal_client/share/ament_index/resource_index/packages
+[8.242s] copying resource/examples_rclpy_minimal_client -> /home/ankush/ros2_ws/install/examples_rclpy_minimal_client/share/ament_index/resource_index/packages
+[8.242s] copying package.xml -> /home/ankush/ros2_ws/install/examples_rclpy_minimal_client/share/examples_rclpy_minimal_client
+[8.402s] Invoked command in '/home/ankush/ros2_ws/build/examples_rclpy_minimal_client' returned '0': PYTHONPATH=/home/ankush/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ankush/ros2_ws/install/examples_rclpy_minimal_client --editable --build-directory /home/ankush/ros2_ws/build/examples_rclpy_minimal_client/build --no-deps install_data --install-dir /home/ankush/ros2_ws/install/examples_rclpy_minimal_client

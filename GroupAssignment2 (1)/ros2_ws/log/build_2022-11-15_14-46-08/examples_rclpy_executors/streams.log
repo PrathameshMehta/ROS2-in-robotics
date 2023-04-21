@@ -1,0 +1,32 @@
+[2.065s] Invoking command in '/home/ankush/ros2_ws/build/examples_rclpy_executors': PYTHONPATH=/home/ankush/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ankush/ros2_ws/install/examples_rclpy_executors --editable --build-directory /home/ankush/ros2_ws/build/examples_rclpy_executors/build --no-deps install_data --install-dir /home/ankush/ros2_ws/install/examples_rclpy_executors
+[2.519s] running develop
+[2.519s] running egg_info
+[2.520s] writing examples_rclpy_executors.egg-info/PKG-INFO
+[2.520s] writing dependency_links to examples_rclpy_executors.egg-info/dependency_links.txt
+[2.520s] writing entry points to examples_rclpy_executors.egg-info/entry_points.txt
+[2.521s] writing requirements to examples_rclpy_executors.egg-info/requires.txt
+[2.521s] writing top-level names to examples_rclpy_executors.egg-info/top_level.txt
+[2.521s] reading manifest file 'examples_rclpy_executors.egg-info/SOURCES.txt'
+[2.521s] writing manifest file 'examples_rclpy_executors.egg-info/SOURCES.txt'
+[2.521s] running build_ext
+[2.521s] Creating /home/ankush/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples-rclpy-executors.egg-link (link to .)
+[2.521s] Installing callback_group script to /home/ankush/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.521s] Installing composed script to /home/ankush/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.521s] Installing custom_callback_group script to /home/ankush/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.521s] Installing custom_executor script to /home/ankush/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.521s] Installing listener script to /home/ankush/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.521s] Installing talker script to /home/ankush/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.521s] 
+[2.521s] Installed /home/ankush/ros2_ws/build/examples_rclpy_executors
+[2.521s] running install_data
+[2.522s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[2.522s]   warnings.warn(
+[2.522s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.522s]   warnings.warn(
+[2.522s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[2.522s]   warnings.warn(
+[2.522s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[2.522s]   warnings.warn(
+[2.522s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[2.522s]   warnings.warn(
+[2.708s] Invoked command in '/home/ankush/ros2_ws/build/examples_rclpy_executors' returned '0': PYTHONPATH=/home/ankush/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ankush/ros2_ws/install/examples_rclpy_executors --editable --build-directory /home/ankush/ros2_ws/build/examples_rclpy_executors/build --no-deps install_data --install-dir /home/ankush/ros2_ws/install/examples_rclpy_executors

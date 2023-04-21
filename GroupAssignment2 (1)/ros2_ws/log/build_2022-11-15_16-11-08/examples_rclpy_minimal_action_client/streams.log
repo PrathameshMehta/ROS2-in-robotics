@@ -1,0 +1,30 @@
+[1.536s] Invoking command in '/home/ankush/ros2_ws/build/examples_rclpy_minimal_action_client': PYTHONPATH=/home/ankush/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_client --editable --build-directory /home/ankush/ros2_ws/build/examples_rclpy_minimal_action_client/build --no-deps install_data --install-dir /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_client
+[1.992s] running develop
+[1.992s] running egg_info
+[1.992s] writing examples_rclpy_minimal_action_client.egg-info/PKG-INFO
+[1.992s] writing dependency_links to examples_rclpy_minimal_action_client.egg-info/dependency_links.txt
+[1.992s] writing entry points to examples_rclpy_minimal_action_client.egg-info/entry_points.txt
+[1.992s] writing requirements to examples_rclpy_minimal_action_client.egg-info/requires.txt
+[1.992s] writing top-level names to examples_rclpy_minimal_action_client.egg-info/top_level.txt
+[1.992s] reading manifest file 'examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[1.992s] writing manifest file 'examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[1.992s] running build_ext
+[1.992s] Creating /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples-rclpy-minimal-action-client.egg-link (link to .)
+[1.993s] Installing client script to /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[1.993s] Installing client_asyncio script to /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[1.993s] Installing client_cancel script to /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[1.993s] Installing client_not_composable script to /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[1.993s] 
+[1.993s] Installed /home/ankush/ros2_ws/build/examples_rclpy_minimal_action_client
+[1.993s] running install_data
+[1.993s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.993s]   warnings.warn(
+[1.993s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.993s]   warnings.warn(
+[1.993s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[1.993s]   warnings.warn(
+[1.993s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.993s]   warnings.warn(
+[1.993s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.993s]   warnings.warn(
+[2.553s] Invoked command in '/home/ankush/ros2_ws/build/examples_rclpy_minimal_action_client' returned '0': PYTHONPATH=/home/ankush/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_client --editable --build-directory /home/ankush/ros2_ws/build/examples_rclpy_minimal_action_client/build --no-deps install_data --install-dir /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_client

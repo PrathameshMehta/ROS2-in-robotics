@@ -1,0 +1,38 @@
+[3.067s] Invoking command in '/home/ankush/ros2_ws/build/examples_rclpy_minimal_action_server': PYTHONPATH=/home/ankush/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_server --editable --build-directory /home/ankush/ros2_ws/build/examples_rclpy_minimal_action_server/build --no-deps install_data --install-dir /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_server
+[36.414s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[36.419s]   warnings.warn(
+[36.421s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[36.421s]   warnings.warn(
+[36.421s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[36.421s]   warnings.warn(
+[36.421s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[36.421s]   warnings.warn(
+[36.422s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[36.422s]   warnings.warn(
+[36.422s] running develop
+[36.422s] running egg_info
+[36.422s] creating examples_rclpy_minimal_action_server.egg-info
+[36.422s] writing examples_rclpy_minimal_action_server.egg-info/PKG-INFO
+[36.422s] writing dependency_links to examples_rclpy_minimal_action_server.egg-info/dependency_links.txt
+[36.423s] writing entry points to examples_rclpy_minimal_action_server.egg-info/entry_points.txt
+[36.423s] writing requirements to examples_rclpy_minimal_action_server.egg-info/requires.txt
+[36.423s] writing top-level names to examples_rclpy_minimal_action_server.egg-info/top_level.txt
+[36.423s] writing manifest file 'examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[36.423s] reading manifest file 'examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[36.423s] writing manifest file 'examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[36.423s] running build_ext
+[36.423s] Creating /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples-rclpy-minimal-action-server.egg-link (link to .)
+[36.423s] Installing server script to /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[36.424s] Installing server_defer script to /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[36.424s] Installing server_not_composable script to /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[36.424s] Installing server_queue_goals script to /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[36.424s] Installing server_single_goal script to /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[36.424s] 
+[36.424s] Installed /home/ankush/ros2_ws/build/examples_rclpy_minimal_action_server
+[36.424s] running install_data
+[36.424s] creating /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_server/share/ament_index
+[36.424s] creating /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index
+[36.425s] creating /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index/packages
+[36.425s] copying resource/examples_rclpy_minimal_action_server -> /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index/packages
+[36.425s] copying package.xml -> /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_server/share/examples_rclpy_minimal_action_server
+[36.495s] Invoked command in '/home/ankush/ros2_ws/build/examples_rclpy_minimal_action_server' returned '0': PYTHONPATH=/home/ankush/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_server --editable --build-directory /home/ankush/ros2_ws/build/examples_rclpy_minimal_action_server/build --no-deps install_data --install-dir /home/ankush/ros2_ws/install/examples_rclpy_minimal_action_server

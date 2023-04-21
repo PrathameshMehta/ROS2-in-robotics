@@ -1,0 +1,67 @@
+[0.060s] Invoking command in '/home/ankush/ros2_ws/build/examples_rclcpp_multithreaded_executor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ankush/ros2_ws/src/examples/rclcpp/executors/multithreaded_executor -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor
+[1.880s] -- The C compiler identification is GNU 11.3.0
+[1.880s] -- The CXX compiler identification is GNU 11.3.0
+[1.880s] -- Detecting C compiler ABI info
+[1.880s] -- Detecting C compiler ABI info - done
+[1.880s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.880s] -- Detecting C compile features
+[1.880s] -- Detecting C compile features - done
+[1.881s] -- Detecting CXX compiler ABI info
+[1.881s] -- Detecting CXX compiler ABI info - done
+[1.881s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.881s] -- Detecting CXX compile features
+[1.881s] -- Detecting CXX compile features - done
+[1.881s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.881s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.881s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.881s] -- Found rclcpp: 16.0.1 (/opt/ros/humble/share/rclcpp/cmake)
+[1.882s] -- Found rosidl_generator_c: 3.1.3 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.882s] -- Found rosidl_adapter: 3.1.3 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.882s] -- Found rosidl_generator_cpp: 3.1.3 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.882s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.882s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.882s] -- Found rmw_implementation_cmake: 6.1.0 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.882s] -- Found rmw_fastrtps_cpp: 6.2.1 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.882s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.883s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.883s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.883s] -- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.886s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.886s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.886s] -- Configured cppcheck include dirs: 
+[1.886s] -- Configured cppcheck exclude dirs and/or files: 
+[1.886s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.886s] -- Configured cpplint exclude dirs and/or files: 
+[1.887s] -- Added test 'lint_cmake' to check CMake code style
+[1.887s] -- Added test 'uncrustify' to check C / C++ code style
+[1.887s] -- Configured uncrustify additional arguments: 
+[1.887s] -- Added test 'xmllint' to check XML markup files
+[1.887s] -- Configuring done
+[1.887s] -- Generating done
+[1.888s] -- Build files have been written to: /home/ankush/ros2_ws/build/examples_rclcpp_multithreaded_executor
+[1.911s] Invoked command in '/home/ankush/ros2_ws/build/examples_rclcpp_multithreaded_executor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ankush/ros2_ws/src/examples/rclcpp/executors/multithreaded_executor -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor
+[1.912s] Invoking command in '/home/ankush/ros2_ws/build/examples_rclcpp_multithreaded_executor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ankush/ros2_ws/build/examples_rclcpp_multithreaded_executor -- -j16 -l16
+[2.067s] [ 50%] [32mBuilding CXX object CMakeFiles/multithreaded_executor.dir/multithreaded_executor.cpp.o[0m
+[51.161s] [100%] [32m[1mLinking CXX executable multithreaded_executor[0m
+[52.128s] [100%] Built target multithreaded_executor
+[52.228s] Invoked command in '/home/ankush/ros2_ws/build/examples_rclcpp_multithreaded_executor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ankush/ros2_ws/build/examples_rclcpp_multithreaded_executor -- -j16 -l16
+[52.447s] Invoking command in '/home/ankush/ros2_ws/build/examples_rclcpp_multithreaded_executor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ankush/ros2_ws/build/examples_rclcpp_multithreaded_executor
+[52.465s] -- Install configuration: ""
+[52.473s] -- Execute custom install script
+[52.477s] -- Symlinking: /home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor/lib/examples_rclcpp_multithreaded_executor/multithreaded_executor
+[52.517s] -- Symlinking: /home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_multithreaded_executor
+[52.539s] -- Symlinking: /home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_multithreaded_executor
+[52.582s] -- Symlinking: /home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/ament_prefix_path.sh
+[52.607s] -- Symlinking: /home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/ament_prefix_path.dsv
+[52.627s] -- Symlinking: /home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/path.sh
+[52.644s] -- Symlinking: /home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/path.dsv
+[52.660s] -- Symlinking: /home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.bash
+[52.677s] -- Symlinking: /home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.sh
+[52.689s] -- Symlinking: /home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.zsh
+[52.701s] -- Symlinking: /home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.dsv
+[52.713s] -- Symlinking: /home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/package.dsv
+[52.731s] -- Symlinking: /home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/ament_index/resource_index/packages/examples_rclcpp_multithreaded_executor
+[52.746s] -- Symlinking: /home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/cmake/examples_rclcpp_multithreaded_executorConfig.cmake
+[52.764s] -- Symlinking: /home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/cmake/examples_rclcpp_multithreaded_executorConfig-version.cmake
+[52.785s] -- Symlinking: /home/ankush/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/package.xml
+[52.810s] Invoked command in '/home/ankush/ros2_ws/build/examples_rclcpp_multithreaded_executor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ankush/ros2_ws/build/examples_rclcpp_multithreaded_executor

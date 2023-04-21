@@ -1,0 +1,22 @@
+[0.292s] Invoking command in '/home/ankush/ros2_ws/src/examples/rclpy/topics/pointcloud_publisher': AMENT_PREFIX_PATH=/home/ankush/ros2_ws/install/examples_rclpy_pointcloud_publisher:${AMENT_PREFIX_PATH} PYTEST_ADDOPTS=--tb=short --junit-xml=/home/ankush/ros2_ws/build/examples_rclpy_pointcloud_publisher/pytest.xml --junit-prefix=examples_rclpy_pointcloud_publisher -o cache_dir=/home/ankush/ros2_ws/build/examples_rclpy_pointcloud_publisher/.pytest_cache PYTHONPATH=/home/ankush/ros2_ws/build/examples_rclpy_pointcloud_publisher:/home/ankush/ros2_ws/install/examples_rclpy_pointcloud_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest
+[0.723s] [1m============================= test session starts ==============================[0m
+[0.723s] platform linux -- Python 3.10.6, pytest-6.2.5, py-1.10.0, pluggy-0.13.0
+[0.728s] cachedir: /home/ankush/ros2_ws/build/examples_rclpy_pointcloud_publisher/.pytest_cache
+[0.728s] rootdir: /home/ankush/ros2_ws/src/examples/rclpy, configfile: pytest.ini
+[0.728s] plugins: ament-lint-0.12.4, ament-pep257-0.12.4, launch-testing-ros-0.19.3, ament-flake8-0.12.4, ament-copyright-0.12.4, launch-testing-1.0.3, ament-xmllint-0.12.4, mock-3.6.1, rerunfailures-10.2, colcon-core-0.10.0, timeout-2.1.0, repeat-0.9.1, cov-3.0.0
+[0.783s] [1mcollecting ... [0m[1m
+[0.783s] collected 3 items                                                              [0m
+[0.783s] 
+[0.904s] test/test_copyright.py [32m.[0m[32m                                                 [ 33%][0m
+[1.027s] test/test_flake8.py [32m.[0m[33m                                                    [ 66%][0m
+[1.050s] test/test_pep257.py [32m.[0m[33m                                                    [100%][0m
+[1.050s] 
+[1.050s] [33m=============================== warnings summary ===============================[0m
+[1.051s] topics/pointcloud_publisher/test/test_flake8.py::test_flake8
+[1.051s] topics/pointcloud_publisher/test/test_flake8.py::test_flake8
+[1.051s]   Warning: SelectableGroups dict interface is deprecated. Use select.
+[1.051s] 
+[1.051s] -- Docs: https://docs.pytest.org/en/stable/warnings.html
+[1.051s] - generated xml file: /home/ankush/ros2_ws/build/examples_rclpy_pointcloud_publisher/pytest.xml -
+[1.051s] [33m======================== [32m3 passed[0m, [33m[1m2 warnings[0m[33m in 0.33s[0m[33m =========================[0m
+[1.155s] Invoked command in '/home/ankush/ros2_ws/src/examples/rclpy/topics/pointcloud_publisher' returned '0': AMENT_PREFIX_PATH=/home/ankush/ros2_ws/install/examples_rclpy_pointcloud_publisher:${AMENT_PREFIX_PATH} PYTEST_ADDOPTS=--tb=short --junit-xml=/home/ankush/ros2_ws/build/examples_rclpy_pointcloud_publisher/pytest.xml --junit-prefix=examples_rclpy_pointcloud_publisher -o cache_dir=/home/ankush/ros2_ws/build/examples_rclpy_pointcloud_publisher/.pytest_cache PYTHONPATH=/home/ankush/ros2_ws/build/examples_rclpy_pointcloud_publisher:/home/ankush/ros2_ws/install/examples_rclpy_pointcloud_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest
